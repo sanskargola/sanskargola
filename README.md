@@ -1,4 +1,4 @@
-# Sanskrit Gola
+# Sanskar Gola
 
 Software Developer focused on building clean, efficient, and scalable digital solutions. I enjoy solving real-world problems through technology and continuously improving my skills across software development, architecture, and product thinking.
 
@@ -35,8 +35,8 @@ I am open to opportunities to collaborate on meaningful projects, learn from exp
 ## Contact
 
 - GitHub: github.com/sanskargola
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/your-profile
+- Email: sanskargola2005@gmail.com
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/sanskar-gola-01b739312/)
 
 ## Motto
 
