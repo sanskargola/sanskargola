@@ -34,7 +34,7 @@ I am open to opportunities to collaborate on meaningful projects, learn from exp
 
 ## Contact
 
-- GitHub: github.com/sanskargola
+- GitHub: [github.com/sanskargola](https://github.com/sanskargola)
 - Email: sanskargola2005@gmail.com
 - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/sanskar-gola-01b739312/)
 
