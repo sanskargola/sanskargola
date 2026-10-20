@@ -1,16 +1,43 @@
-## Hi there 👋
+# Sanskrit Gola
 
-<!--
-**sanskargola/sanskargola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on building clean, efficient, and scalable digital solutions. I enjoy solving real-world problems through technology and continuously improving my skills across software development, architecture, and product thinking.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a developer with a strong interest in creating reliable applications that deliver value to users. My work is driven by curiosity, problem-solving, and a passion for writing maintainable, high-quality code.
+
+I enjoy working across the full software lifecycle, from understanding requirements and designing solutions to implementing, testing, and improving them over time.
+
+## Skills
+
+- Programming Languages: JavaScript, TypeScript, Python, Java, C++
+- Frontend Development: HTML, CSS, React, Next.js
+- Backend Development: Node.js, Express, REST APIs
+- Databases: MySQL, PostgreSQL, MongoDB
+- Tools & Platforms: Git, GitHub, Docker, Linux, AWS
+- Software Practices: Clean Code, Testing, Debugging, Performance Optimization, CI/CD
+
+## Current Focus
+
+- Building practical and user-centered applications
+- Improving technical skills in software design and architecture
+- Exploring modern web technologies and scalable system design
+- Learning and applying best practices in development and deployment
+
+## Projects
+
+I work on projects that combine technical execution with meaningful problem-solving, with a focus on usability, maintainability, and performance.
+
+## Collaboration
+
+I am open to opportunities to collaborate on meaningful projects, learn from experienced developers, and contribute to innovative solutions.
+
+## Contact
+
+- GitHub: github.com/sanskargola
+- Email: your.email@example.com
+- LinkedIn: linkedin.com/in/your-profile
+
+## Motto
+
+Build with purpose. Write code that matters. Keep learning.
